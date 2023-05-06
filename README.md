@@ -15,6 +15,7 @@ In this section, let's illustrate the control of the system using a block diagra
 
 ## Command
 At each sampling time, we apply the following command.
+
 command= Kp*Error+ Ki*SumErrors+ Kd*(error- PreviousEror)/0.001
 
 ## Software

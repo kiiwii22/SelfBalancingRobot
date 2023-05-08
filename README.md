@@ -1,6 +1,12 @@
 # SelfBalancingRobot
 Inverted Wheeled Pendulum is a non-linear system. This specific type of robot consists of a body above two wheels with no balancing support. Its main task is to maintain the pitch angle in a vertical position to stabilize the structure.
 
+
+
+https://user-images.githubusercontent.com/76494996/236827673-f7529cde-7dcc-4940-aef6-6814a063aaf6.mp4
+
+
+
 ## Mechanical Design
 
 ![image](https://user-images.githubusercontent.com/76494996/236623901-3da85d5c-4583-4d80-a1b7-4c641038be7b.png)
